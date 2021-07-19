@@ -21,7 +21,7 @@ el.click()
 
 # masukan no hp
 pi = drivur.find_element_by_accessibility_id('loginPage_phoneNumberInput')
-pi.send_keys('082229720709')
+pi.send_keys('081234213123')
 
 # otp via whatsapp
 ot = drivur.find_element_by_accessibility_id('loginPage_whatsappLoginButton')
